@@ -1,3 +1,4 @@
+```
 <context>
 Projecte: Xatbot a WhatsApp per a app de gestió de fisioterapeutes.
 Funció actual: Agendament de cites, consultes.
@@ -118,3 +119,4 @@ Llista numerada de millores concretes i accionables, ordenades per impacte.
 - Basa tota l'anàlisi estrictament en la transcripció proporcionada a `<input_data>`.
 - Mantingues la veu i la perspectiva de cada rol a la secció 2.
 </constraints>
+```
